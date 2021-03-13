@@ -19,6 +19,7 @@
 <p align="left"> 🌱 Atualmente estou aprendendo: Javascript </p>
 <p align="left"> 🦄 Possuo conhecimentos em: HTML e CSS</p>
 <p align="left"> 🔭 Atualmente estou cursando o Bootcamp Front End da IGTI </p>
+<p align="left"> 📫 Contato: <a href="https://www.linkedin.com/in/yankayohana/"> Linkedin </a>
 
 
 <img align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yankayohana&layout=compact&theme=buefy)](https://github.com/yankayohana/github-readme-stats)</img>
