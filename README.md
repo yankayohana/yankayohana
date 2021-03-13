@@ -13,7 +13,7 @@
 -->
 <img src="https://assets-global.website-files.com/5bfd6f4468ee7943c2d331dd/5fe1d0b9fa2eef8574dd6442_Clack-prew-Customize.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
-<p align="left"> Meu nome é Yanka, sou estudante de <strong> ciência da computação </strong>, aspirante a desenvolvedora <strong>front-end</strong> e apaixonada por UI Design :D </p>
+<p align="left"> Meu nome é Yanka, sou estudante de <strong> ciência da computação </strong>, aspirante a desenvolvedora <strong>front-end</strong> e apaixonada por <strong>UI Design</strong> :D </p>
 
 
 <p align="left"> 🌱 Atualmente estou aprendendo: Javascript </p>
