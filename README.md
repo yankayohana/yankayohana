@@ -20,4 +20,6 @@
 <p align="left"> 🦄 Possuo conhecimentos em: HTML e CSS</p>
 <p align="left"> 🔭 Atualmente estou cursando o Bootcamp Front End da IGTI </p>
 
-<img>![Yanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=yankayohana&show_icons=true&theme=buefy&count_private=true)</img>
+
+<img align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yankayohana&layout=compact&theme=buefy)](https://github.com/yankayohana/github-readme-stats)</img>
+
