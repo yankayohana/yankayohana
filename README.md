@@ -1,4 +1,4 @@
-### Olá 👋
+### Olá 👋 <img src="https://media4.giphy.com/media/cKc0u9hyvZEOjD8V08/giphy.gif?cid=ecf05e47lhlsdh3jhj11wzofo687nnti8y5nfg9u0zk78w85&rid=giphy.gif" width=50>
 
 <!--
 **yankayohana/yankayohana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
