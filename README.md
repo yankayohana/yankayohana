@@ -35,7 +35,7 @@
 <ul>
   <li>CSS Flexbox - Origamid</li>
   <li>CSS Grid Layout - Origamid</li>
-  <li>The Complete JavaScript Course 2021: From Zero to Expert! - Udemy</li>
+  <li><a href="https://www.udemy.com/course/the-complete-javascript-course/">The Complete JavaScript Course 2021: From Zero to Expert! - Udemy</a></li>
   <li>HTML5 e CSS3 - Alura</li>
   <li>Angular 9 Essencial - COD3R</li>
 </ul>
