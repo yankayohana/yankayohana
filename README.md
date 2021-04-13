@@ -16,14 +16,25 @@
 
 <p align="left"> Meu nome é Yanka, sou estudante de <strong> ciência da computação </strong>, aspirante a desenvolvedora <strong>front-end</strong> e apaixonada por <strong>UI Design</strong> :D </p>
 
-
+---
 <p align="left"> 🌱 Atualmente estou aprendendo: Javascript </p>
 <p align="left"> 🦄 Possuo conhecimentos em: HTML e CSS</p>
 <p align="left"> 🔭 Atualmente estou cursando o Bootcamp Front End da IGTI </p>
 <p align="left"> 📫 Contato: <a href="https://www.linkedin.com/in/yankayohana/"> Linkedin </a>
+<hr/>
+<h3>:computer: Técnologias</h3>
+<div display='flex'>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"  padding='20px'/> 
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="40" height="40"  padding='20px'/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"  padding:20px/> 
+
+</div>
+<hr/>
+<h3>&#x1f4c8; GitHub Stats</h3>
 
 <img align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yankayohana&layout=compact&theme=buefy)](https://github.com/yankayohana/github-readme-stats)</img>
 
 <img align="center">![Yanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=yankayohana&show_icons=true&theme=buefy&count_private=true)</img>
+
 
