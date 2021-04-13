@@ -38,6 +38,7 @@
   <li>The Complete JavaScript Course 2021: From Zero to Expert! - Udemy</li>
   <li>HTML5 e CSS3 - Alura</li>
   <li>Angular 9 Essencial - COD3R</li>
+</ul>
 <hr/>
 <h3>&#x1f4c8; GitHub Stats</h3>
 
