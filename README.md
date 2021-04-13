@@ -31,10 +31,21 @@
 
 </div>
 <hr/>
+<h3> :notebook_with_decorative_cover: Cursos</h3>
+<ul>
+  <li>CSS Flexbox - Origamid</li>
+  <li>CSS Grid Layout - Origamid</li>
+  <li>The Complete JavaScript Course 2021: From Zero to Expert! - Udemy</li>
+  <li>HTML5 e CSS3 - Alura</li>
+  <li>Angular 9 Essencial - COD3R</li>
+<hr/>
 <h3>&#x1f4c8; GitHub Stats</h3>
 
 <img align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yankayohana&layout=compact&theme=buefy)](https://github.com/yankayohana/github-readme-stats)</img>
 
 <img align="center">![Yanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=yankayohana&show_icons=true&theme=buefy&count_private=true)</img>
+
+
+
 
 
