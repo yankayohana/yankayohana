@@ -33,11 +33,11 @@
 <hr/>
 <h3> :notebook_with_decorative_cover: Cursos</h3>
 <ul>
-  <li>CSS Flexbox - Origamid</li>
-  <li>CSS Grid Layout - Origamid</li>
+  <li><a href="https://www.origamid.com/">CSS Flexbox - Origamid</a></li>
+  <li><a href="https://www.origamid.com/">CSS Grid Layout - Origamid</a></li>
   <li><a href="https://www.udemy.com/course/the-complete-javascript-course/">The Complete JavaScript Course 2021: From Zero to Expert! - Udemy</a></li>
-  <li>HTML5 e CSS3 - Alura</li>
-  <li>Angular 9 Essencial - COD3R</li>
+  <li><a href="https://www.alura.com.br/">HTML5 e CSS3 - Alura</a></li>
+  <li><a href="https://www.cod3r.com.br/courses/take/angular-9-essencial/l"> Angular 9 Essencial - COD3R</a></li>
 </ul>
 <hr/>
 <h3>&#x1f4c8; GitHub Stats</h3>
