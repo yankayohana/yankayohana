@@ -22,7 +22,7 @@
 <p align="left"> 🔭 Atualmente estou cursando o Bootcamp Front End da IGTI </p>
 <p align="left"> 📫 Contato: <a href="https://www.linkedin.com/in/yankayohana/"> Linkedin </a>
 <hr/>
-<h3>:computer: Técnologias</h3>
+<h3>:computer: Tecnologias</h3>
 <div display='flex'>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"  padding='20px'/> 
 
