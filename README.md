@@ -36,7 +36,7 @@
   <li><a href="https://www.alura.com.br/">HTML5 e CSS3 - Alura</a></li>
   <li><a href="https://www.origamid.com/">CSS Flexbox - Origamid</a></li>
   <li><a href="https://www.origamid.com/">CSS Grid Layout - Origamid</a></li>
-  <li><a href="https://https://cursos.alura.com.br/course/bootstrap-landing-page">Bootstrap 4: Criando uma landing page responsiva - Alura</a></li>
+  <li><a href="https://www.alura.com.br/">Bootstrap 4: Criando uma landing page responsiva - Alura</a></li>
   <li><a href="https://www.udemy.com/course/the-complete-javascript-course/">The Complete JavaScript Course 2021: From Zero to Expert! - Udemy</a></li>
   <li><a href="https://www.cod3r.com.br/courses/take/angular-9-essencial/l"> Angular 9 Essencial - COD3R</a></li>
 </ul>
