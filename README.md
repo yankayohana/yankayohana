@@ -19,7 +19,7 @@
 ---
 <p align="left"> 🌱 Atualmente estou aprendendo: Javascript </p>
 <p align="left"> 🦄 Possuo conhecimentos em: HTML e CSS</p>
-<p align="left"> 🔭 Atualmente estou cursando o Bootcamp Front End da IGTI </p>
+<p align="left"> 🔭 --- </p>
 <p align="left"> 📫 Contato: <a href="https://www.linkedin.com/in/yankayohana/"> Linkedin </a>
 <hr/>
 <h3>:computer: Tecnologias</h3>
@@ -39,6 +39,7 @@
   <li><a href="https://www.alura.com.br/">Bootstrap 4: Criando uma landing page responsiva - Alura</a></li>
   <li><a href="https://www.udemy.com/course/the-complete-javascript-course/">The Complete JavaScript Course 2021: From Zero to Expert! - Udemy</a></li>
   <li><a href="https://www.cod3r.com.br/courses/take/angular-9-essencial/l"> Angular 9 Essencial - COD3R</a></li>
+  <li><a href="https://www.igti.com.br/custom/desenvolvedora-front-end/"> Bootcamp Desenvolvedor Front End da IGTI </a></li>
 </ul>
 <hr/>
 <h3>&#x1f4c8; GitHub Stats</h3>
