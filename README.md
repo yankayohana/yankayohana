@@ -43,11 +43,11 @@
 </ul>
 <hr/>
 <h3>&#x1f4c8; GitHub Stats</h3>
-<div display="flex">
+
 <img align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yankayohana&layout=compact&theme=buefy)](https://github.com/yankayohana/github-readme-stats)</img>
 
 <img align="center">![Yanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=yankayohana&show_icons=true&theme=buefy&count_private=true)</img>
-</div>
+
 
 
 
