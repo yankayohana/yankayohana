@@ -28,6 +28,7 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS 3" alt="CSS" width="40" height="40"  padding='20px'/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="JavaScript" width="40" height="40"  padding:20px/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"  padding:20px/> 
 
 </div>
 <hr/>
