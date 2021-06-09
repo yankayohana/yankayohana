@@ -18,7 +18,7 @@
 
 ---
 <p align="left"> 🌱 Atualmente estou aprendendo: Javascript </p>
-<p align="left"> 🦄 Possuo conhecimentos em: HTML e CSS</p>
+<p align="left"> 🦄 Principais conhecimentos: HTML e CSS</p>
 <p align="left"> 🔭 --- </p>
 <p align="left"> 📫 Contato: <a href="https://www.linkedin.com/in/yankayohana/"> Linkedin </a>
 <hr/>
