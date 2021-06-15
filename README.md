@@ -47,7 +47,7 @@
 
 
 <img height="180" float="left" src="https://github-readme-stats.vercel.app/api?username=yankayohana&theme=buefy&count_private=true&show_icons=true"></img>
-<img height="180" float="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yankayohana&theme=buefy&count_private=true&layout=compact"></img>  
+<img height="180" float="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yankayohana&theme=buefy&count_private=true&layout=compact&langs_count=8"></img>  
 
 
 
